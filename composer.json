@@ -2,7 +2,7 @@
 	"name": "bsscommerce/disable-compare",
 	"description": "Bss Disable Compare Module",
 	"require": {
-		"php": "~5.5|~7.0"
+		"php": "~5.5|~7.0|~8.0"
 	},
 	"type": "magento2-module",
 	"version": "1.0.0",
